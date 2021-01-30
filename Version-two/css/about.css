@@ -1,0 +1,1029 @@
+/* screen - work-home */
+
+.work-home {
+  background-color: rgba(255,255,255,1.0);
+  height: 1389px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.work-home .about-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(45,46,64,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 644px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 115px;
+}
+.work-home .back-to-top-iPe1yZ {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(217,217,217,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 121px;
+}
+.work-home .cbr-mobile-view-1-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/cbr-mobile-view-1@2x.jpg);
+  background-size: 100% 100%;
+  height: 283px;
+  left: 560px;
+  opacity: 1;
+  position: absolute;
+  top: 449px;
+  width: 138px;
+}
+.work-home .doi-logo-1-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/doi-logo-1@2x.png);
+  background-size: 100% 100%;
+  height: 296px;
+  left: 191px;
+  opacity: 1;
+  position: absolute;
+  top: 852px;
+  width: 313px;
+}
+.work-home .doi-mobile-view-1-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  background-image: url(../img/doi-mobile-view-1@2x.jpg);
+  background-size: 100% 100%;
+  height: 286px;
+  left: 559px;
+  opacity: 1;
+  position: absolute;
+  top: 857px;
+  width: 140px;
+}
+.work-home .facebook-3iPcSa {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/facebook@2x.png);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+.work-home .footer-C61RwL {
+  --z-index: 15;
+  background-color: rgba(36,36,36,1.0);
+  height: 144px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1245px;
+  width: 1440px;
+}
+.work-home .government-e-redesign-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 797px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 862px;
+  width: 439px;
+}
+.work-home .group-1-iPe1yZ {
+  --z-index: 2;
+  background-color: transparent;
+  height: 50px;
+  left: 635px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 50px;
+}
+.work-home .group-2-iPe1yZ {
+  --z-index: 3;
+  background-color: transparent;
+  height: 50px;
+  left: 754px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 50px;
+}
+.work-home .header-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 265px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.work-home .joanna-kos-unsplash-2-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/joanna-kosinska-mjc9apk53a8-unsplash-2@1x.svg);
+  background-size: 100% 100%;
+  height: 1459px;
+  left: -745px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 2185px;
+}
+.work-home .linked-in-MBDRm8 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/linkedin@2x.png);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+.work-home .logo-13-1-IcPKRJ {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/logo-13-1@2x.png);
+  background-size: 100% 100%;
+  height: 183px;
+  left: 563px;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  width: 315px;
+}
+.work-home .non-profit-e-redesign-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 797px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 453px;
+  width: 424px;
+}
+.work-home .polygon-1-iPe1yZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 711px;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+.work-home .rectangle-2-MBDRm8 {
+  --z-index: 0;
+  background-color: rgba(217,217,217,1.0);
+  height: 35px;
+  left: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 38px;
+}
+.work-home .rectangle-3-3iPcSa {
+  --z-index: 0;
+  background-color: rgba(217,217,217,1.0);
+  height: 35px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+.work-home .rectangle-4-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  border: 1px solid rgba(0,0,0,1.0);
+  border-radius: 10px;
+  height: 328px;
+  left: 195px;
+  opacity: 1;
+  position: absolute;
+  top: 427px;
+  width: 1051px;
+}
+.work-home .rectangle-4-VMr6Om {
+  --z-index: 8;
+  background-color: transparent;
+  border: 1px solid rgba(0,0,0,1.0);
+  border-radius: 10px;
+  height: 328px;
+  left: 195px;
+  opacity: 1;
+  position: absolute;
+  top: 836px;
+  width: 1051px;
+}
+.work-home .rectangle-5-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-5@1x.svg);
+  background-size: 100% 100%;
+  height: 328px;
+  left: 195px;
+  opacity: 1;
+  position: absolute;
+  top: 427px;
+  width: 575px;
+}
+.work-home .rectangle-5-VMr6Om {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/rectangle-5-1@1x.svg);
+  background-size: 100% 100%;
+  height: 328px;
+  left: 195px;
+  opacity: 1;
+  position: absolute;
+  top: 836px;
+  width: 575px;
+}
+.work-home .rectangle-6-C61RwL {
+  --z-index: 6;
+  background-color: rgba(0,101,255,0.5);
+  border-radius: 10px;
+  height: 36px;
+  left: 854px;
+  opacity: 1;
+  position: absolute;
+  top: 681px;
+  width: 300px;
+}
+.work-home .rectangle-6-VMr6Om {
+  --z-index: 12;
+  background-color: rgba(0,101,255,0.5);
+  border-radius: 10px;
+  height: 36px;
+  left: 854px;
+  opacity: 1;
+  position: absolute;
+  top: 1090px;
+  width: 300px;
+}
+.work-home .rectangle-7-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  height: 53px;
+  left: 850px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.work-home .rectangle-8-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 53px;
+  left: 414px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.work-home .rectangle-9-IcPKRJ {
+  --z-index: 5;
+  background-color: transparent;
+  height: 53px;
+  left: 629px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.work-home .resume-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(45,46,64,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 862px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 141px;
+}
+.work-home .tasked-wit-i-features-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 800px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 528px;
+  width: 407px;
+}
+.work-home .tasked-wit-t-chunking-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 800px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 955px;
+  width: 407px;
+}
+.work-home .user-resea-e-job-done-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 259px;
+  letter-spacing: 0.00px;
+  line-height: 40.0px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 296px;
+  width: 928px;
+}
+.work-home .view-project-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 942px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 687px;
+  width: 127px;
+}
+.work-home .view-project-VMr6Om {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 942px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1096px;
+  width: 127px;
+}
+.work-home .work-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(4,191,32,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 440px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 101px;
+}
+.work-home .zoom-background-1-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  background-image: url(../img/zoom-background-1@1x.svg);
+  background-size: 100% 100%;
+  height: 328px;
+  left: 196px;
+  opacity: 1;
+  position: absolute;
+  top: 427px;
+  width: 574px;
+}
+/* screen - about */
+
+.about {
+  background-color: rgba(255,255,255,1.0);
+  height: 1567px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.about .about-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(4,191,32,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 644px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 115px;
+}
+.about .back-to-top-iPe1yZ {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(217,217,217,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 121px;
+}
+.about .dpp27-1-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/dpp-27-1@1x.svg);
+  background-size: 100% 100%;
+  height: 717px;
+  left: 1052px;
+  opacity: 1;
+  position: absolute;
+  top: 334px;
+  width: 304px;
+}
+.about .facebook-iPe1yZ {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/facebook@2x.png);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 754px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 50px;
+}
+.about .footer-C61RwL {
+  --z-index: 6;
+  background-color: rgba(36,36,36,1.0);
+  height: 144px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1423px;
+  width: 1440px;
+}
+.about .header-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 265px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.about .hello-im-h-f-adoption-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: transparent;
+  font-family: "Arial Rounded MT Bold", Helvetica, Arial, serif;
+  font-size: 60px;
+  height: auto;
+  left: 86px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 334px;
+  width: 779px;
+}
+.about .joanna-kos-unsplash-2-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/joanna-kosinska-mjc9apk53a8-unsplash-2@1x.svg);
+  background-size: 100% 100%;
+  height: 1459px;
+  left: -745px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 2185px;
+}
+.about .linked-in-iPe1yZ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/linkedin@2x.png);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 635px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 50px;
+}
+.about .logo-13-1-IcPKRJ {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/logo-13-1@2x.png);
+  background-size: 100% 100%;
+  height: 192px;
+  left: 563px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+.about .my-skills-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(0,101,255,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: 88.3px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1136px;
+  white-space: nowrap;
+  width: 285px;
+}
+.about .polygon-1-iPe1yZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 711px;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+.about .rectangle-2-iPe1yZ {
+  --z-index: 2;
+  background-color: rgba(217,217,217,1.0);
+  height: 35px;
+  left: 639px;
+  opacity: 1;
+  position: absolute;
+  top: 88px;
+  width: 38px;
+}
+.about .rectangle-3-iPe1yZ {
+  --z-index: 4;
+  background-color: rgba(217,217,217,1.0);
+  height: 35px;
+  left: 760px;
+  opacity: 1;
+  position: absolute;
+  top: 87px;
+  width: 36px;
+}
+.about .rectangle-7-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  height: 53px;
+  left: 850px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.about .rectangle-8-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 53px;
+  left: 414px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.about .rectangle-9-IcPKRJ {
+  --z-index: 5;
+  background-color: transparent;
+  height: 53px;
+  left: 629px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.about .resume-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(45,46,64,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 862px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 141px;
+}
+.about .span1-Gbf74a {
+  color: rgba(0,101,255,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.about .span2-Gbf74a {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.about .work-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(45,46,64,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 440px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 101px;
+}
+.about .x-user-rese-ciency-seo-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: 44.2px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1242px;
+  width: 1274px;
+}
+/* screen - resume */
+
+.resume {
+  background-color: rgba(255,255,255,1.0);
+  height: 1401px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.resume .about-IcPKRJ {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(45,46,64,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 644px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 115px;
+}
+.resume .back-to-top-iPe1yZ {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(217,217,217,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  width: 121px;
+}
+.resume .design-resume-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/design-resume@1x.jpg);
+  background-size: 100% 100%;
+  height: 792px;
+  left: 414px;
+  opacity: 1;
+  position: absolute;
+  top: 315px;
+  width: 612px;
+}
+.resume .download-resume-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 629px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1171px;
+  width: 184px;
+}
+.resume .facebook-iPe1yZ {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/facebook@2x.png);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 754px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 50px;
+}
+.resume .footer-C61RwL {
+  --z-index: 4;
+  background-color: rgba(36,36,36,1.0);
+  height: 144px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1257px;
+  width: 1440px;
+}
+.resume .header-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 265px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.resume .joanna-kos-unsplash-2-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/joanna-kosinska-mjc9apk53a8-unsplash-2@1x.svg);
+  background-size: 100% 100%;
+  height: 1459px;
+  left: -745px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 2185px;
+}
+.resume .linked-in-iPe1yZ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/linkedin@2x.png);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 635px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 50px;
+}
+.resume .logo-13-1-IcPKRJ {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/logo-13-1@2x.png);
+  background-size: 100% 100%;
+  height: 192px;
+  left: 563px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 315px;
+}
+.resume .polygon-1-iPe1yZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-1@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 711px;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+.resume .rectangle-2-iPe1yZ {
+  --z-index: 2;
+  background-color: rgba(217,217,217,1.0);
+  height: 35px;
+  left: 639px;
+  opacity: 1;
+  position: absolute;
+  top: 88px;
+  width: 38px;
+}
+.resume .rectangle-3-iPe1yZ {
+  --z-index: 4;
+  background-color: rgba(217,217,217,1.0);
+  height: 35px;
+  left: 760px;
+  opacity: 1;
+  position: absolute;
+  top: 87px;
+  width: 36px;
+}
+.resume .rectangle-6-C61RwL {
+  --z-index: 1;
+  background-color: rgba(0,101,255,0.5);
+  border-radius: 10px;
+  height: 36px;
+  left: 570px;
+  opacity: 1;
+  position: absolute;
+  top: 1164px;
+  width: 300px;
+}
+.resume .rectangle-7-IcPKRJ {
+  --z-index: 2;
+  background-color: transparent;
+  height: 53px;
+  left: 850px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.resume .rectangle-8-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 53px;
+  left: 414px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.resume .rectangle-9-IcPKRJ {
+  --z-index: 5;
+  background-color: transparent;
+  height: 53px;
+  left: 629px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  width: 152px;
+}
+.resume .resume-IcPKRJ {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(4,191,32,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 862px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 141px;
+}
+.resume .work-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(45,46,64,1.0);
+  font-family: 'Arial Rounded MT Bold-Regular', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 440px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 101px;
+}
